@@ -117,7 +117,3 @@ python scripts/run_kpi_pipeline.py
 The system produces **trusted, repeatable, and business-ready KPIs** that can be refreshed daily or weekly with minimal manual effort.
 
 ---
-
-## 🎯 Recruiter Summary
-Built an end-to-end analytics pipeline using SQL and Python to automate KPI reporting.  
-Implemented data validation, anomaly detection, and reproducible metric computation across platforms and locations, replacing manual reporting with a scalable, trust-driven system.
